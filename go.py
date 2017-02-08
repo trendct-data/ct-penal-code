@@ -1,4 +1,4 @@
-import grab, json
+import grab, json, re
 import pandas as pd
 
 tbls = grab.tables("https://cga.ct.gov/2015/rpt/2015-R-0046.htm")
@@ -27,12 +27,28 @@ def classify(row,tp):
     elif "unclassified" in row["classification"].lower():
         class_type = "unclassified"
 
-    if class_type != None and off_type != None:
+    charge = None
+
+    s = re.search(r'.*\((.*-.*)\).*',row["offense"].lower());
+    if s:
+        # print "GOOD: ", row["offense"].lower()
+        # print s.group(1)
+        charge = s.group(1)
+        pass
+    else:
+        pass
+        # print "BAD: ", row ["offense"].lower()x
+    
+        
+    if class_type != None and off_type != None and charge != None:
         examples.append({
             "type":off_type,
             "class":class_type,
-            "offense":row["offense"]
+            "offense":row["offense"],
+            "statute":charge
             })
+
+    
         
 def clean_min(row_min):
     # Haven't implemented yet -- don't need this data for current project
@@ -53,7 +69,8 @@ def process(df, outfile):
 
     ex_df = pd.DataFrame(examples)
     ex_df.to_csv("output/" + outfile + "-examples.csv",index=False,encoding="UTF-8")
-    
+
+    print len(ex_df.index)
     
 fel = tbls[1]
 mis = tbls[2]

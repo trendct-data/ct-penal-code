@@ -1,103 +1,103 @@
-class,offense,type
-A,Criminally negligent homicide (53a-58),misdemeanor
-A,Assault 3rd degree (53a-61),misdemeanor
-A,"Assault of an elderly, blind, disabled, or pregnant person or person with intellectual disabilities 3rd degree (53a-61a)",misdemeanor
-A,Threatening 2nd degree (53a-62),misdemeanor
-A,Reckless endangerment 1st degree (53a-63),misdemeanor
-A,Strangulation 3rd degree (53a-64cc),misdemeanor
-A,Sexual assault 4th degree (victim 16 or older) (53a-73a),misdemeanor
-A,Prostitution (53a-82),misdemeanor
-A,Patronizing a prostitute (except when perpetrator knows or should know the prostitute is under age 18 or a trafficking victim) (53a-83),misdemeanor
-A,Patronizing a prostitute from a motor vehicle (53a-83a),misdemeanor
-A,Permitting prostitution (53a-89),misdemeanor
-A,Unlawful restraint 2nd degree (53a-96),misdemeanor
-A,Custodial interference 2nd degree (53a-98),misdemeanor
-A,Manufacturing or possession of burglar's tools (53a-106),misdemeanor
-A,Criminal trespass 1st degree (53a-107),misdemeanor
-A,Criminal mischief 2nd degree (53a-116),misdemeanor
-A,Criminal damage to landlord's property 2nd degree (53a-117f),misdemeanor
-A,Damage to railroad property 2nd degree (53a-117l),misdemeanor
-A,Using a motor vehicle or vessel without the owner's permission or interfering or tampering with a motor vehicle (1st offense) (53a-119b),misdemeanor
-A,Larceny 4th degree (53a-125),misdemeanor
-A,Criminal trover 2nd degree (53a-126b),misdemeanor
-A,Diversion from state of benefit of employees' labor (53a-127),misdemeanor
-A,Unlawful entry into coin machine or possession of key to enter (53a-127a),misdemeanor
-A,Fraudulent use of automatic teller machine (53a-127b),misdemeanor
-A,Unlawful possession of a shoplifting device (53a-127f),misdemeanor
-A,Unlawful possession of a personal identifying information access device (53a-127g),misdemeanor
-A,"Issuing a bad check (between $1,000 and $2,000) (53a-128)",misdemeanor
-A,Certain credit card crimes (53a-128i(a)),misdemeanor
-A,Misapplication of property (53a-129),misdemeanor
-A,Criminal impersonation (53a-130),misdemeanor
-A,Unlawfully concealing a will (53a-131),misdemeanor
-A,False entry by officer or agent of public community (53a-132),misdemeanor
-A,Forgery of symbols of value (53a-142),misdemeanor
-A,Failure to report bribery (53a-148a),misdemeanor
-A,False statement (53a-157b),misdemeanor
-A,Disclosure of bid or proposal (53a-161b),misdemeanor
-A,Soliciting or accepting benefit for rigging (53a-163),misdemeanor
-A,Participating in a rigged contest (53a-164),misdemeanor
-A,Interfering with an officer (53a-167a),misdemeanor
-A,"Failure to assist a peace officer, special policeman, firefighter, or motor vehicle inspector (53a-167b)",misdemeanor
-A,"Escape from custody (by person arrested for, charged with, or convicted of an offense that is not a felony) (53a-171)",misdemeanor
-A,Aiding escape from hospital or sanitarium (53a-171a),misdemeanor
-A,Failure to appear 2nd degree (53a-173),misdemeanor
-A,Conveying unauthorized letters into correctional or humane institution or to inmate outside institution or using false name to enter institution (53a-174(b) or (c)),misdemeanor
-A,Conveying or using electronic wireless communication device in prison (53a-174b),misdemeanor
-A,Riot 1st degree (53a-175),misdemeanor
-A,Inciting to riot (53a-178),misdemeanor
-A,Falsely reporting an incident 2nd degree (53a-180c),misdemeanor
-A,Stalking 2nd degree (53a-181d),misdemeanor
-A,Intimidation based on bigotry or bias 3rd degree (53a-181l),misdemeanor
-A,Interfering with an emergency call (53a-183b),misdemeanor
-A,Disrupting a funeral (53a-183c),misdemeanor
-A,Tampering with private communications (53a-188),misdemeanor
-A,Coercion (when the threat is to commit other than a felony) (53a-192),misdemeanor
-A,Possessing or transmitting child pornography by minor (sexting) (53a-196h),misdemeanor
-A,Criminal possession of body armor (53a-217d),misdemeanor
-A,Negligent hunting 2nd degree (53a-217e(c)),misdemeanor
-A,Interference with a memorial plaque (53a-220),misdemeanor
-A,"Unlawful purchase, possession, or sale of a memorial plaque (53a-221)",misdemeanor
-A,Violation of conditions of release 2nd degree (53a-222a),misdemeanor
-A,Recruiting a gang member (53a-224),misdemeanor
-A,Computer crime 4th degree (53a-255),misdemeanor
-A,Money laundering 4th degree (53a-279),misdemeanor
-A,Vendor fraud 4th degree (53a-294),misdemeanor
-A,Abuse 3rd degree (53a-323),misdemeanor
-B,Reckless endangerment 2nd degree (53a-64),misdemeanor
-B,Criminal trespass 2nd degree (53a-108),misdemeanor
-B,Criminal trespass 3rd degree (poaching) (53a-109),misdemeanor
-B,Criminal mischief 3rd degree (53a-117),misdemeanor
-B,Criminal damage to landlord's property 3rd degree (53a-117g),misdemeanor
-B,Damage to railroad property 3rd degree (53a-117m),misdemeanor
-B,Larceny 5th degree (53a-125a),misdemeanor
-B,Cheating while gambling (changing wager after time allowed expires) (53a-127d),misdemeanor
-B,"Issuing a bad check (between $500 and $1,000) (53a-128)",misdemeanor
-B,Forgery 3rd degree (53a-140),misdemeanor
-B,Unlawfully using slugs 1st degree (53a-144),misdemeanor
-B,Riot 2nd degree (53a-176),misdemeanor
-B,Unlawful assembly (53a-177),misdemeanor
-B,Misuse of 9-1-1 system (53a-180d),misdemeanor
-B,Breach of peace 2nd degree (53a-181),misdemeanor
-B,Stalking 3rd degree (53a-181e),misdemeanor
-B,Public indecency (53a-186),misdemeanor
-B,Obscenity (53a-194),misdemeanor
-B,Negligent hunting 3rd degree (53a-217e(d)),misdemeanor
-B,Computer crime 5th degree (53a-256),misdemeanor
-B,Vendor fraud 5th degree (53a-295),misdemeanor
-C,Criminal trespass 3rd degree (except for poaching) (53a-109),misdemeanor
-C,Criminal mischief 4th degree (53a-117a),misdemeanor
-C,Larceny 6th degree (53a-125b),misdemeanor
-C,Issuing a bad check ($500 or less) (53a-128),misdemeanor
-C,Unlawfully using slugs 2nd degree (53a-145),misdemeanor
-C,Disorderly conduct (53a-182),misdemeanor
-C,Obstructing free passage (53a-182a),misdemeanor
-C,Harassment 2nd degree (53a-183),misdemeanor
-C,Obstructing the lawful taking of wildlife (53a-183a),misdemeanor
-C,Loitering in or about school grounds (53a-185),misdemeanor
-C,Drinking while operating a motor vehicle (53a-213),misdemeanor
-C,Criminal lockout (53a-214),misdemeanor
-C,Negligent hunting 4th degree (53a-217e(e)),misdemeanor
-C,Vendor fraud 6th degree (53a-296),misdemeanor
-unclassified,Arson murder (53a-54d),misdemeanor
-unclassified,Violating injunction against material or performance that is obscene or obscene as to minors (53a-209),misdemeanor
+class,offense,statute,type
+A,Criminally negligent homicide (53a-58),53a-58,misdemeanor
+A,Assault 3rd degree (53a-61),53a-61,misdemeanor
+A,"Assault of an elderly, blind, disabled, or pregnant person or person with intellectual disabilities 3rd degree (53a-61a)",53a-61a,misdemeanor
+A,Threatening 2nd degree (53a-62),53a-62,misdemeanor
+A,Reckless endangerment 1st degree (53a-63),53a-63,misdemeanor
+A,Strangulation 3rd degree (53a-64cc),53a-64cc,misdemeanor
+A,Sexual assault 4th degree (victim 16 or older) (53a-73a),53a-73a,misdemeanor
+A,Prostitution (53a-82),53a-82,misdemeanor
+A,Patronizing a prostitute (except when perpetrator knows or should know the prostitute is under age 18 or a trafficking victim) (53a-83),53a-83,misdemeanor
+A,Patronizing a prostitute from a motor vehicle (53a-83a),53a-83a,misdemeanor
+A,Permitting prostitution (53a-89),53a-89,misdemeanor
+A,Unlawful restraint 2nd degree (53a-96),53a-96,misdemeanor
+A,Custodial interference 2nd degree (53a-98),53a-98,misdemeanor
+A,Manufacturing or possession of burglar's tools (53a-106),53a-106,misdemeanor
+A,Criminal trespass 1st degree (53a-107),53a-107,misdemeanor
+A,Criminal mischief 2nd degree (53a-116),53a-116,misdemeanor
+A,Criminal damage to landlord's property 2nd degree (53a-117f),53a-117f,misdemeanor
+A,Damage to railroad property 2nd degree (53a-117l),53a-117l,misdemeanor
+A,Using a motor vehicle or vessel without the owner's permission or interfering or tampering with a motor vehicle (1st offense) (53a-119b),53a-119b,misdemeanor
+A,Larceny 4th degree (53a-125),53a-125,misdemeanor
+A,Criminal trover 2nd degree (53a-126b),53a-126b,misdemeanor
+A,Diversion from state of benefit of employees' labor (53a-127),53a-127,misdemeanor
+A,Unlawful entry into coin machine or possession of key to enter (53a-127a),53a-127a,misdemeanor
+A,Fraudulent use of automatic teller machine (53a-127b),53a-127b,misdemeanor
+A,Unlawful possession of a shoplifting device (53a-127f),53a-127f,misdemeanor
+A,Unlawful possession of a personal identifying information access device (53a-127g),53a-127g,misdemeanor
+A,"Issuing a bad check (between $1,000 and $2,000) (53a-128)",53a-128,misdemeanor
+A,Certain credit card crimes (53a-128i(a)),53a-128i(a),misdemeanor
+A,Misapplication of property (53a-129),53a-129,misdemeanor
+A,Criminal impersonation (53a-130),53a-130,misdemeanor
+A,Unlawfully concealing a will (53a-131),53a-131,misdemeanor
+A,False entry by officer or agent of public community (53a-132),53a-132,misdemeanor
+A,Forgery of symbols of value (53a-142),53a-142,misdemeanor
+A,Failure to report bribery (53a-148a),53a-148a,misdemeanor
+A,False statement (53a-157b),53a-157b,misdemeanor
+A,Disclosure of bid or proposal (53a-161b),53a-161b,misdemeanor
+A,Soliciting or accepting benefit for rigging (53a-163),53a-163,misdemeanor
+A,Participating in a rigged contest (53a-164),53a-164,misdemeanor
+A,Interfering with an officer (53a-167a),53a-167a,misdemeanor
+A,"Failure to assist a peace officer, special policeman, firefighter, or motor vehicle inspector (53a-167b)",53a-167b,misdemeanor
+A,"Escape from custody (by person arrested for, charged with, or convicted of an offense that is not a felony) (53a-171)",53a-171,misdemeanor
+A,Aiding escape from hospital or sanitarium (53a-171a),53a-171a,misdemeanor
+A,Failure to appear 2nd degree (53a-173),53a-173,misdemeanor
+A,Conveying unauthorized letters into correctional or humane institution or to inmate outside institution or using false name to enter institution (53a-174(b) or (c)),53a-174(b) or (c),misdemeanor
+A,Conveying or using electronic wireless communication device in prison (53a-174b),53a-174b,misdemeanor
+A,Riot 1st degree (53a-175),53a-175,misdemeanor
+A,Inciting to riot (53a-178),53a-178,misdemeanor
+A,Falsely reporting an incident 2nd degree (53a-180c),53a-180c,misdemeanor
+A,Stalking 2nd degree (53a-181d),53a-181d,misdemeanor
+A,Intimidation based on bigotry or bias 3rd degree (53a-181l),53a-181l,misdemeanor
+A,Interfering with an emergency call (53a-183b),53a-183b,misdemeanor
+A,Disrupting a funeral (53a-183c),53a-183c,misdemeanor
+A,Tampering with private communications (53a-188),53a-188,misdemeanor
+A,Coercion (when the threat is to commit other than a felony) (53a-192),53a-192,misdemeanor
+A,Possessing or transmitting child pornography by minor (sexting) (53a-196h),53a-196h,misdemeanor
+A,Criminal possession of body armor (53a-217d),53a-217d,misdemeanor
+A,Negligent hunting 2nd degree (53a-217e(c)),53a-217e(c),misdemeanor
+A,Interference with a memorial plaque (53a-220),53a-220,misdemeanor
+A,"Unlawful purchase, possession, or sale of a memorial plaque (53a-221)",53a-221,misdemeanor
+A,Violation of conditions of release 2nd degree (53a-222a),53a-222a,misdemeanor
+A,Recruiting a gang member (53a-224),53a-224,misdemeanor
+A,Computer crime 4th degree (53a-255),53a-255,misdemeanor
+A,Money laundering 4th degree (53a-279),53a-279,misdemeanor
+A,Vendor fraud 4th degree (53a-294),53a-294,misdemeanor
+A,Abuse 3rd degree (53a-323),53a-323,misdemeanor
+B,Reckless endangerment 2nd degree (53a-64),53a-64,misdemeanor
+B,Criminal trespass 2nd degree (53a-108),53a-108,misdemeanor
+B,Criminal trespass 3rd degree (poaching) (53a-109),53a-109,misdemeanor
+B,Criminal mischief 3rd degree (53a-117),53a-117,misdemeanor
+B,Criminal damage to landlord's property 3rd degree (53a-117g),53a-117g,misdemeanor
+B,Damage to railroad property 3rd degree (53a-117m),53a-117m,misdemeanor
+B,Larceny 5th degree (53a-125a),53a-125a,misdemeanor
+B,Cheating while gambling (changing wager after time allowed expires) (53a-127d),53a-127d,misdemeanor
+B,"Issuing a bad check (between $500 and $1,000) (53a-128)",53a-128,misdemeanor
+B,Forgery 3rd degree (53a-140),53a-140,misdemeanor
+B,Unlawfully using slugs 1st degree (53a-144),53a-144,misdemeanor
+B,Riot 2nd degree (53a-176),53a-176,misdemeanor
+B,Unlawful assembly (53a-177),53a-177,misdemeanor
+B,Misuse of 9-1-1 system (53a-180d),53a-180d,misdemeanor
+B,Breach of peace 2nd degree (53a-181),53a-181,misdemeanor
+B,Stalking 3rd degree (53a-181e),53a-181e,misdemeanor
+B,Public indecency (53a-186),53a-186,misdemeanor
+B,Obscenity (53a-194),53a-194,misdemeanor
+B,Negligent hunting 3rd degree (53a-217e(d)),53a-217e(d),misdemeanor
+B,Computer crime 5th degree (53a-256),53a-256,misdemeanor
+B,Vendor fraud 5th degree (53a-295),53a-295,misdemeanor
+C,Criminal trespass 3rd degree (except for poaching) (53a-109),53a-109,misdemeanor
+C,Criminal mischief 4th degree (53a-117a),53a-117a,misdemeanor
+C,Larceny 6th degree (53a-125b),53a-125b,misdemeanor
+C,Issuing a bad check ($500 or less) (53a-128),53a-128,misdemeanor
+C,Unlawfully using slugs 2nd degree (53a-145),53a-145,misdemeanor
+C,Disorderly conduct (53a-182),53a-182,misdemeanor
+C,Obstructing free passage (53a-182a),53a-182a,misdemeanor
+C,Harassment 2nd degree (53a-183),53a-183,misdemeanor
+C,Obstructing the lawful taking of wildlife (53a-183a),53a-183a,misdemeanor
+C,Loitering in or about school grounds (53a-185),53a-185,misdemeanor
+C,Drinking while operating a motor vehicle (53a-213),53a-213,misdemeanor
+C,Criminal lockout (53a-214),53a-214,misdemeanor
+C,Negligent hunting 4th degree (53a-217e(e)),53a-217e(e),misdemeanor
+C,Vendor fraud 6th degree (53a-296),53a-296,misdemeanor
+unclassified,Arson murder (53a-54d),53a-54d,misdemeanor
+unclassified,Violating injunction against material or performance that is obscene or obscene as to minors (53a-209),53a-209,misdemeanor
