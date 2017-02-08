@@ -68,6 +68,7 @@ def process(df, outfile):
     open("output/" + outfile + "-examples.json",'w').write(json.dumps(examples))
 
     ex_df = pd.DataFrame(examples)
+    ex_df = ex_df[ex_df["type"] == outfile]
     ex_df.to_csv("output/" + outfile + "-examples.csv",index=False,encoding="UTF-8")
 
     print len(ex_df.index)
