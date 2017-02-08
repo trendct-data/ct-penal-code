@@ -8,10 +8,12 @@ Check out the /output/ folder in this repo.
 
 Here are the files and their sources:
 
-* misdemenors-2016.csv, source: https://cga.ct.gov/2015/rpt/2015-R-0046.htm
-* misdemenors-2016.json, source: https://cga.ct.gov/2015/rpt/2015-R-0046.htm
-* felonies-2016.csv, source: https://cga.ct.gov/2015/rpt/2015-R-0046.htm
-* felonies-2016.json, source: https://cga.ct.gov/2015/rpt/2015-R-0046.htm
+All data came from here:https://cga.ct.gov/2015/rpt/2015-R-0046.htm
+
+* misdemenor-examples.csv
+* misdemenor-examples.json
+* felony-examples.csv
+* felony-examples.json
 
 # The scraper
 

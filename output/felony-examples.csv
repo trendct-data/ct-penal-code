@@ -1,0 +1,259 @@
+class,offense,type
+A,Criminally negligent homicide (53a-58),misdemeanor
+A,Assault 3rd degree (53a-61),misdemeanor
+A,"Assault of an elderly, blind, disabled, or pregnant person or person with intellectual disabilities 3rd degree (53a-61a)",misdemeanor
+A,Threatening 2nd degree (53a-62),misdemeanor
+A,Reckless endangerment 1st degree (53a-63),misdemeanor
+A,Strangulation 3rd degree (53a-64cc),misdemeanor
+A,Sexual assault 4th degree (victim 16 or older) (53a-73a),misdemeanor
+A,Prostitution (53a-82),misdemeanor
+A,Patronizing a prostitute (except when perpetrator knows or should know the prostitute is under age 18 or a trafficking victim) (53a-83),misdemeanor
+A,Patronizing a prostitute from a motor vehicle (53a-83a),misdemeanor
+A,Permitting prostitution (53a-89),misdemeanor
+A,Unlawful restraint 2nd degree (53a-96),misdemeanor
+A,Custodial interference 2nd degree (53a-98),misdemeanor
+A,Manufacturing or possession of burglar's tools (53a-106),misdemeanor
+A,Criminal trespass 1st degree (53a-107),misdemeanor
+A,Criminal mischief 2nd degree (53a-116),misdemeanor
+A,Criminal damage to landlord's property 2nd degree (53a-117f),misdemeanor
+A,Damage to railroad property 2nd degree (53a-117l),misdemeanor
+A,Using a motor vehicle or vessel without the owner's permission or interfering or tampering with a motor vehicle (1st offense) (53a-119b),misdemeanor
+A,Larceny 4th degree (53a-125),misdemeanor
+A,Criminal trover 2nd degree (53a-126b),misdemeanor
+A,Diversion from state of benefit of employees' labor (53a-127),misdemeanor
+A,Unlawful entry into coin machine or possession of key to enter (53a-127a),misdemeanor
+A,Fraudulent use of automatic teller machine (53a-127b),misdemeanor
+A,Unlawful possession of a shoplifting device (53a-127f),misdemeanor
+A,Unlawful possession of a personal identifying information access device (53a-127g),misdemeanor
+A,"Issuing a bad check (between $1,000 and $2,000) (53a-128)",misdemeanor
+A,Certain credit card crimes (53a-128i(a)),misdemeanor
+A,Misapplication of property (53a-129),misdemeanor
+A,Criminal impersonation (53a-130),misdemeanor
+A,Unlawfully concealing a will (53a-131),misdemeanor
+A,False entry by officer or agent of public community (53a-132),misdemeanor
+A,Forgery of symbols of value (53a-142),misdemeanor
+A,Failure to report bribery (53a-148a),misdemeanor
+A,False statement (53a-157b),misdemeanor
+A,Disclosure of bid or proposal (53a-161b),misdemeanor
+A,Soliciting or accepting benefit for rigging (53a-163),misdemeanor
+A,Participating in a rigged contest (53a-164),misdemeanor
+A,Interfering with an officer (53a-167a),misdemeanor
+A,"Failure to assist a peace officer, special policeman, firefighter, or motor vehicle inspector (53a-167b)",misdemeanor
+A,"Escape from custody (by person arrested for, charged with, or convicted of an offense that is not a felony) (53a-171)",misdemeanor
+A,Aiding escape from hospital or sanitarium (53a-171a),misdemeanor
+A,Failure to appear 2nd degree (53a-173),misdemeanor
+A,Conveying unauthorized letters into correctional or humane institution or to inmate outside institution or using false name to enter institution (53a-174(b) or (c)),misdemeanor
+A,Conveying or using electronic wireless communication device in prison (53a-174b),misdemeanor
+A,Riot 1st degree (53a-175),misdemeanor
+A,Inciting to riot (53a-178),misdemeanor
+A,Falsely reporting an incident 2nd degree (53a-180c),misdemeanor
+A,Stalking 2nd degree (53a-181d),misdemeanor
+A,Intimidation based on bigotry or bias 3rd degree (53a-181l),misdemeanor
+A,Interfering with an emergency call (53a-183b),misdemeanor
+A,Disrupting a funeral (53a-183c),misdemeanor
+A,Tampering with private communications (53a-188),misdemeanor
+A,Coercion (when the threat is to commit other than a felony) (53a-192),misdemeanor
+A,Possessing or transmitting child pornography by minor (sexting) (53a-196h),misdemeanor
+A,Criminal possession of body armor (53a-217d),misdemeanor
+A,Negligent hunting 2nd degree (53a-217e(c)),misdemeanor
+A,Interference with a memorial plaque (53a-220),misdemeanor
+A,"Unlawful purchase, possession, or sale of a memorial plaque (53a-221)",misdemeanor
+A,Violation of conditions of release 2nd degree (53a-222a),misdemeanor
+A,Recruiting a gang member (53a-224),misdemeanor
+A,Computer crime 4th degree (53a-255),misdemeanor
+A,Money laundering 4th degree (53a-279),misdemeanor
+A,Vendor fraud 4th degree (53a-294),misdemeanor
+A,Abuse 3rd degree (53a-323),misdemeanor
+B,Reckless endangerment 2nd degree (53a-64),misdemeanor
+B,Criminal trespass 2nd degree (53a-108),misdemeanor
+B,Criminal trespass 3rd degree (poaching) (53a-109),misdemeanor
+B,Criminal mischief 3rd degree (53a-117),misdemeanor
+B,Criminal damage to landlord's property 3rd degree (53a-117g),misdemeanor
+B,Damage to railroad property 3rd degree (53a-117m),misdemeanor
+B,Larceny 5th degree (53a-125a),misdemeanor
+B,Cheating while gambling (changing wager after time allowed expires) (53a-127d),misdemeanor
+B,"Issuing a bad check (between $500 and $1,000) (53a-128)",misdemeanor
+B,Forgery 3rd degree (53a-140),misdemeanor
+B,Unlawfully using slugs 1st degree (53a-144),misdemeanor
+B,Riot 2nd degree (53a-176),misdemeanor
+B,Unlawful assembly (53a-177),misdemeanor
+B,Misuse of 9-1-1 system (53a-180d),misdemeanor
+B,Breach of peace 2nd degree (53a-181),misdemeanor
+B,Stalking 3rd degree (53a-181e),misdemeanor
+B,Public indecency (53a-186),misdemeanor
+B,Obscenity (53a-194),misdemeanor
+B,Negligent hunting 3rd degree (53a-217e(d)),misdemeanor
+B,Computer crime 5th degree (53a-256),misdemeanor
+B,Vendor fraud 5th degree (53a-295),misdemeanor
+C,Criminal trespass 3rd degree (except for poaching) (53a-109),misdemeanor
+C,Criminal mischief 4th degree (53a-117a),misdemeanor
+C,Larceny 6th degree (53a-125b),misdemeanor
+C,Issuing a bad check ($500 or less) (53a-128),misdemeanor
+C,Unlawfully using slugs 2nd degree (53a-145),misdemeanor
+C,Disorderly conduct (53a-182),misdemeanor
+C,Obstructing free passage (53a-182a),misdemeanor
+C,Harassment 2nd degree (53a-183),misdemeanor
+C,Obstructing the lawful taking of wildlife (53a-183a),misdemeanor
+C,Loitering in or about school grounds (53a-185),misdemeanor
+C,Drinking while operating a motor vehicle (53a-213),misdemeanor
+C,Criminal lockout (53a-214),misdemeanor
+C,Negligent hunting 4th degree (53a-217e(e)),misdemeanor
+C,Vendor fraud 6th degree (53a-296),misdemeanor
+unclassified,Arson murder (53a-54d),misdemeanor
+unclassified,Violating injunction against material or performance that is obscene or obscene as to minors (53a-209),misdemeanor
+A,Murder (53a-54a),felony
+A,Felony murder (53a-54c),felony
+A,Aggravated sexual assault of a minor (53a-70c),felony
+A,Assault of pregnant woman resulting in termination of pregnancy (53a-59c),felony
+A,Sexual assault 1st degree (when force is used or threatened and victim under 16 or victim under 13 and actor more than two years older) (53a-70),felony
+A,Aggravated sexual assault 1st degree (victim under 16) (53a-70),felony
+A,Kidnapping 1st degree (53a-92),felony
+A,Kidnapping 1st degree with a firearm (53a-92a),felony
+A,Home invasion (53a-100aa),felony
+A,Arson 1st degree (53a-111),felony
+A,Employing a minor in an obscene performance (53a-196a),felony
+B,Manslaughter 1st degree with a firearm (53a-55a),felony
+B,Manslaughter 1st degree (53a-55),felony
+B,Assault 1st degree (53a-59),felony
+B,Possessing child pornography 1st degree (53a-196d),felony
+B,Computer crime 1st degree (53a-252),felony
+B,Money laundering 1st degree (53a-276),felony
+B,Vendor fraud 1st degree (53a-291),felony
+B,Computer crime in furtherance of terrorism (53a-301),felony
+C,Manslaughter 2nd degree (53a-56),felony
+C,Manslaughter 2nd degree with a firearm (53a-56a),felony
+C,Manslaughter 2nd degree with a motor vehicle while intoxicated (53a-56b),felony
+C,Strangulation 1st degree (53a-64aa),felony
+C,Sexual assault 2nd degree (victim 16 or older) (53a-71),felony
+C,Sexual assault 3rd degree (victim under 16) (53a-72a),felony
+C,Sexual assault 3rd degree with a firearm (victim 16 or older) (53a-72b),felony
+C,Patronizing a prostitute (when the perpetrator knows or should know the prostitute is under age 18 or a trafficking victim) (53a-83),felony
+C,Promoting prostitution 2nd degree (53a-87),felony
+C,"Enticing a minor (2nd offense, victim 13 or older) (53a-90a)",felony
+C,Misrepresentation of age to entice a minor (53a-90b),felony
+C,Burglary 2nd degree (53a-102),felony
+C,Burglary 2nd degree with a firearm (53a-102a),felony
+C,Arson 3rd degree (53a-113),felony
+C,Larceny 2nd degree (53a-123),felony
+C,Criminal trover 1st degree (second and subsequent offenses) (53a-126a),felony
+C,Identity theft 2nd degree (53a-129c),felony
+C,Robbery 2nd degree (53a-135),felony
+C,Forgery 1st degree (53a-138),felony
+C,Bribery (53a-147),felony
+C,Bribe receiving (53a-148),felony
+C,Bribery of a witness (53a-149),felony
+C,Bribe receiving by a witness (53a-150),felony
+C,Tampering with a witness (53a-151),felony
+C,Intimidating a witness (53a-151a),felony
+C,Bribery of a juror (53a-152),felony
+C,Bribe receiving by a juror (53a-153),felony
+C,Hindering prosecution 1st degree (53a-165aa),felony
+C,Hindering prosecution 2nd degree (53a-166),felony
+C,"Assault of public safety, emergency medical, public transit, or health care personnel (53a-167c)",felony
+C,Assault on a prosecutor (53a-167d),felony
+C,Escape 1st degree (53a-169),felony
+C,"Escape from custody (by person arrested for, charged with, or convicted of a felony) (53a-171)",felony
+C,Inciting injury to persons or property (53a-179a),felony
+C,Inciting to riot at correctional institution (53a-179c),felony
+C,Falsely reporting an incident resulting in serious physical injury or death (53a-180a),felony
+C,Intimidation based on bigotry or bias 1st degree (53a-181j),felony
+C,Possessing child pornography 2nd degree (53a-196e),felony
+C,Commercial sexual exploitation of a minor (53a-196i),felony
+C,Stealing a firearm (53a-212),felony
+C,"Criminal possession of firearm, ammunition, or electronic defense weapon (53a-217)",felony
+C,Criminal possession of a pistol or revolver (53a-217c),felony
+C,Interference with a cemetery or burial ground (53a-218),felony
+C,"Criminal violation of a protective order (when (1) restrain person protected by the order or his or her liberty or (2) threaten, harass, assault, or sexually assault the person) (53a-223)",felony
+C,"Criminal violation of standing criminal protective order (when (1) restrain person protected by the order or his or her liberty or (2) threaten, harass, assault, or sexually assault the person) (53a-223a)",felony
+C,"Criminal violation of restraining order (when (1) restrain person protected by the order or his or her liberty or (2) threaten, harass, assault, or sexually assault the person) (53a-223b)",felony
+C,Computer crime 2nd degree (53a-253),felony
+C,Money laundering 2nd degree (53a-277),felony
+C,Vendor fraud 2nd degree (53a-292),felony
+C,Criminal misrepresentation (53a-302),felony
+C,Contamination of public water or food for terrorism (53a-303),felony
+C,Damage to public transportation for terrorism (53a-304),felony
+C,Abuse 1st degree (53a-321),felony
+D,Misconduct with a motor vehicle (53a-57),felony
+D,Assault 2nd degree (53a-60),felony
+D,Assault 2nd degree with a firearm (53a-60a),felony
+D,"Assault of an elderly, blind, disabled, or pregnant person or person with intellectual disabilities 2nd degree (53a-60b)",felony
+D,"Assault of an elderly, blind, disabled, or pregnant person or person with intellectual disabilities 2nd degree with a firearm (53a-60c)",felony
+D,Assault 2nd degree with a motor vehicle while intoxicated (53a-60d),felony
+D,Threatening 1st degree (53a-61aa),felony
+D,Strangulation 2nd degree (53a-64bb),felony
+D,Sexual assault 3rd degree (victim 16 or older) (53a-72a),felony
+D,Sexual assault 4th degree (victim under 16) (53a-73a),felony
+D,Promoting prostitution 3rd degree (53a-88),felony
+D,"Enticing a minor (1st offense, victim 13 or older) (53a-90a)",felony
+D,Unlawful restraint 1st degree (53a-95),felony
+D,Custodial interference 1st degree (53a-97),felony
+D,Substitution of children (53a-99),felony
+D,Burglary 3rd degree (53a-103),felony
+D,Burglary 3rd degree with a firearm (53a-103a),felony
+D,Reckless burning (53a-114),felony
+D,Criminal mischief 1st degree (53a-115),felony
+D,Criminal damage to landlord's property 1st degree (53a-117e),felony
+D,Damage to railroad property 1st degree (53a-117k),felony
+D,Using a motor vehicle or vessel without the owner's permission or interfering or tampering with a motor vehicle (2nd and subsequent offenses) (53a-119b),felony
+D,Larceny 3rd degree (53a-124),felony
+D,Criminal trover 1st degree (1st offense) (53a-126a),felony
+D,Theft of utility or cable TV service for profit or gain (53a-127c),felony
+D,Cheating while gambling (except for changing wager after time allowed expires) (53a-127d),felony
+D,Possession of cheating device (53a-127e),felony
+D,"Issuing a bad check (over $2,000) (53a-128)",felony
+D,Certain credit card crimes (53a-128i(b)),felony
+D,Identity theft 3rd degree (53a-129d),felony
+D,Trafficking in personal identifying information (53a-129e),felony
+D,Impersonation of a police officer (53a-130a),felony
+D,Robbery 3rd degree (53a-136),felony
+D,Forgery 2nd degree (53a-139),felony
+D,Criminal simulation (53a-141),felony
+D,Tampering with a juror (53a-154),felony
+D,Tampering with or fabricating physical evidence (53a-155),felony
+D,Perjury (53a-156),felony
+D,False statement on a certified payroll (53a-157a),felony
+D,Bribery of a labor official (53a-158),felony
+D,Bribe receiving by a labor official (53a-159),felony
+D,Commercial bribery (53a-160),felony
+D,Receiving a commercial bribe (53a-161),felony
+D,Bid rigging (53a-161a),felony
+D,Receiving kickbacks (53a-161c),felony
+D,Paying a kickback (53a-161d),felony
+D,Rigging (53a-162),felony
+D,Hindering prosecution 3rd degree (53a-167),felony
+D,Escape 2nd degree (53a-170),felony
+D,Failure to appear 1st degree (53a-172),felony
+D,Conveying unauthorized items into correctional institution (53a-174(a)),felony
+D,Criminal advocacy (53a-179),felony
+D,Falsely reporting an incident 1st degree (53a-180),felony
+D,Falsely reporting an incident concerning serious physical injury or death (53a-180b),felony
+D,Breach of peace 1st degree (53a-180aa),felony
+D,Stalking 1st degree (53a-181c),felony
+D,Intimidation based on bigotry or bias 2nd degree (53a-181k),felony
+D,Harassment 1st degree (53a-182b),felony
+D,Eavesdropping (53a-189),felony
+D,Voyeurism (53a-189a),felony
+D,Disseminating voyeuristic material (53a-189b),felony
+D,Bigamy (53a-190),felony
+D,Incest (53a-191),felony
+D,Coercion (when the threat is to commit a felony) (53a-192),felony
+D,Obscenity as to minors (53a-196),felony
+D,Possessing child pornography 3rd degree (53a-196f),felony
+D,Possession of sawed-off shotgun or silencer (53a-211),felony
+D,Insurance fraud (53a-215),felony
+D,Criminal use of firearm or electronic defense weapon (53a-216),felony
+D,Criminally negligent storage of a firearm (53a-217a),felony
+D,Possession of weapon on school property (53a-217b),felony
+D,Negligent hunting 1st degree (53a-217e(b)),felony
+D,Unlawful possession or sale of gravestones (53a-219),felony
+D,Interference with a war or veterans' memorial or monument (53a-221a),felony
+D,"Unlawful possession, purchase, or sale of a war or veterans' memorial or monument (53a-221b)",felony
+D,Violate conditions of release 1st degree (53a-222),felony
+D,Criminal violation of a protective order (53a-223),felony
+D,Criminal violation of standing criminal protective order (53a-223a),felony
+D,Criminal violation of restraining order (53a-223b),felony
+D,Criminal violation of civil protection order (53a-223c),felony
+D,Computer crime 3rd degree (53a-254),felony
+D,Money laundering 3rd degree (53a-278),felony
+D,Vendor fraud 3rd degree (53a-293),felony
+D,Abuse 2nd degree (53a-322),felony
